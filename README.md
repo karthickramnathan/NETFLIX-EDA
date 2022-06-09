@@ -3,8 +3,6 @@
 Netflix - TV Shows and Movies
 This data set was created to list all shows available on Netflix streaming, and analyze the data to find interesting facts. This data was acquired in May 2022 containing data available in the United States.
 
-Content
-This dataset has two files containing the titles (titles.csv) and the cast (credits.csv) for the title.
 
 This dataset contains +5k unique titles on Netflix with 15 columns containing their information, including:
 
